@@ -1,4 +1,4 @@
-# rudra
+# Pepsi ad
 
 ## 🛠️ How to Use  
 1. Download or clone this repository.  
